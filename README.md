@@ -26,19 +26,14 @@
 
 </p>
 
+## About 
 
+- 📚 I have a computer science degree
+- ❤️ I love to code 
+- 🎵 I hear a lot of podcasts   
+- 💬 Ask me about design patterns, society dilemmas, video games 
+- ⚡ Fun fact I have worked with substation gateway
+## Some statics
 
-<!--
-**includeVitor/includeVitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src='https://github-readme-stats.vercel.app/api?username=includeVitor&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=includeVitor&theme=tokyonight&hide_langs_below=4' />
