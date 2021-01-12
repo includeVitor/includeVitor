@@ -20,6 +20,14 @@
         height="35" />
 </a>
 
+<a href="mailto:vitorzcomputacao@gmail.com">
+    <img 
+        src="assets/icons/gmail.png" 
+        alt="codewars" 
+        width="35" 
+        height="35" />
+</a>
+
 
 </br>
 </br>
