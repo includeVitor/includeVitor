@@ -24,8 +24,3 @@
 [![Static Badge](https://img.shields.io/badge/sqlserver-blue?logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![Static Badge](https://img.shields.io/badge/oracle-blue?logo=oracle&logoColor=white)](https://www.oracle.com/database/)
 [![Static Badge](https://img.shields.io/badge/mongodb-blue?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
-<!-- ORM's -->
-[![Static Badge](https://img.shields.io/badge/ecto-blue)](https://hexdocs.pm/ecto/Ecto.html)
-[![Static Badge](https://img.shields.io/badge/eloquent-blue)](https://laravel.com/docs/10.x/eloquent)
-[![Static Badge](https://img.shields.io/badge/entity-blue)](https://learn.microsoft.com/en-us/ef/core/)
