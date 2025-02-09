@@ -1,4 +1,4 @@
-# Hi there, I'm Vitor 👋 &middot; [![Static Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/includevitor/) [![Static Badge](https://img.shields.io/badge/twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/IncludeVitor) [![Static Badge](https://img.shields.io/badge/codesignal-blue?logo=codesignal)](https://app.codesignal.com/profile/includevitor) 
+# Hi there, I'm Vitor 👋 &middot; [![Static Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/includevitor/)  [![Static Badge](https://img.shields.io/badge/codesignal-blue?logo=codesignal)](https://app.codesignal.com/profile/includevitor) 
 
 - 📚 I have a computer science degree
 - 🎵 I listen a lot of podcasts   
